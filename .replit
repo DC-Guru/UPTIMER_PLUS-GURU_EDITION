@@ -1,1 +1,3 @@
+language="js"
+
 run="bash node.sh"
