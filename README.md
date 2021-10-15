@@ -26,7 +26,7 @@ After Completing all the required installments and the changes head over to Upti
 
 **Tap on this --**
 
-[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/EconomyBot)](https://github.com/DC-Guru/DC_Guru_Music-Bot.git)
+[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/EconomyBot)](https://github.com/DC-Guru/UPTIMER_PLUS-GURU_EDITION)
 
 • Type ```npm i``` in console
 
