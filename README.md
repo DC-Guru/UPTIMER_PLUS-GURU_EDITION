@@ -45,42 +45,56 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
   "timeout": 300000,
   "webhook": "-cz1vqgYwMtLa4rm1UffFljZygwVcRxb6fc9EZaB95iEzP3CRvfJDX7a-fS7SvoSYiQs",
   "webhook1": "-cz1vqgYwMtLa4rm1UffFljZygwVcRxb6fc9EZaB95iEzP3CRvfJDX7a-fS7SvoSYiQs",
-   "invite_link": "https://discord.com/api/oauth2/authorize?client_id={Your Bot ID Here&permissions=8&scope=bot",
-   "error_logs": "",
-   "success_logs": "",
-   "disable_fetching": true,
-   "AME_API": "0f227371b2ca3e34eef0405ae054197c61e46f77e335bbda7c58e340513d21dedccae7d69a26a33effa2c86f0a5a87a55562f72a078fe0dfc45236a82767870c",
+  "invite_link": "https://discord.com/api/oauth2/authorize?client_id={Your Bot ID Here&permissions=8&scope=bot",
+  "error_logs": "",
+  "success_logs": "",
+  "disable_fetching": true,
+  "AME_API": "0f227371b2ca3e34eef0405ae054197c61e46f77e335bbda7c58e340513d21dedccae7d69a26a33effa2c86f0a5a87a55562f72a078fe0dfc45236a82767870c",
    
-"Giveaway_Options": {
-"giveawayManagerID": "",
-"giveawayRoleID": "",
-"giveawayMention": false,
-"showMention": true,
-"hostedBy": true
-}
+  "Giveaway_Options": {
+      "giveawayManagerID": "",
+      "giveawayRoleID": "",
+      "giveawayMention": false,
+      "showMention": true,
+      "hostedBy": true
+                    }
 }
 ```
 
 #### If you are making your project in repl then follow the steps below to hide your Bot Token.
 
 • Go to your project in repl
+
 • Enable Desktop Site
+
 • Tap on the lock icon at left sidebar
+
 • Type ```BOT_TOKEN``` in the key field
+
 • Type your Bot's Token in the secret field
+
 • Tap on ```add new secret```
+
 • Token Hidden from others!
+
 
 
 #### If you are making your project in repl then follow the steps below to hide your Mongo Uri
 
 • Go to your project in repl
+
 • Enable Desktop Site
+
 • Tap on the lock icon at left sidebar
+
 • Type ```MONGO_URI``` in the key field
+
 • Type your Mongo Uri in the secret field
+
 • Tap on ```add new secret```
+
 • Mongo Uri Hidden from others!
+
 
 #### Last step
 
